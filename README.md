@@ -1,34 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Developer Portfolio Project
 
-## Getting Started
+This is an open-source project for creating a developer portfolio website, developed by Muhammad Hassan. It aims to provide developers with a modern and customizable portfolio template to showcase their skills, projects, and experience.
 
-First, run the development server:
+## Developer Info
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<!-- - Name: Muhammad Hassan (The React Developer)
+- Email: hassanakram.n@gmail.com
+- Contact No.: +92 304 7955183
+- LinkedIn: [linkedin.com/in/hassanakram-n](linkedin.com/in/hassanakram-n)
+- GitHub: [github.com/hassanakram-n](github.com/hassanakram-n) -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+| Name        | Muhammad Hassan (The React Developer) |
+| ----------- | ------------------------------------- |
+| Email       | hassanakram.n@gmail.com               |
+| Contact No. | +92 304 7955183                       |
+| Linkedin    | linkedin.com/in/hassanakram-n         |
+| Github      | github.com/hassanakram-n              |
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Live Link
 
-## Learn More
+You can access the live version of this portfolio project at [hassanakram.vercel.app](hassanakram.vercel.app).
 
-To learn more about Next.js, take a look at the following resources:
+## Figma Design
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+For the design of this project, you can refer to the Figma design file available at [Figma Developer Portfolio Template](https://www.figma.com/community/file/1116246660507537002).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for your interest in the Developer Portfolio Project! Contributions and feedback are welcome. Happy coding!
