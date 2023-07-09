@@ -1,6 +1,6 @@
-import React from "react"
+import * as React from "react"
 
-function Header() {
+const Header: React.FC = () => {
   return <div className="w-full py-10 text-center">Header</div>
 }
 

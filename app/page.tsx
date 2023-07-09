@@ -1,8 +1,10 @@
+import * as React from "react"
+
 import Footer from "./components/footer"
 import Header from "./components/header"
 import LandingSection from "./views/landing-section"
 
-export default function Home() {
+const Home: React.FC = () => {
   return (
     <main>
       <Header />
@@ -13,3 +15,5 @@ export default function Home() {
     </main>
   )
 }
+
+export default Home

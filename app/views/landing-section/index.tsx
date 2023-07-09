@@ -1,9 +1,9 @@
 import * as React from "react"
+import { Balancer } from "react-wrap-balancer"
 
 import Image from "next/image"
 
-import { PersonalInfo } from "@/constants/personal-info"
-import { Balancer } from "react-wrap-balancer"
+import { PersonalInfo } from "constants/personal-info"
 
 import "./styles.css"
 
