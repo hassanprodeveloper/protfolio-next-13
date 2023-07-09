@@ -1,0 +1,19 @@
+.intro-text {
+  @apply text-[1.3rem] sm:text-[3.6rem];
+  font-weight: 800;
+  line-height: 4rem;
+}
+
+.intro-text-gradient {
+  @apply bg-gradient-to-r from-primary-400 via-primary-500 to-primary-600;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* write media query for mobile view */
+@media (max-width: 768px) {
+  .intro-text {
+    line-height: 2rem;
+  }
+}

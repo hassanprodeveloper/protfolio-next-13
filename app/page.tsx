@@ -1,12 +1,13 @@
 import Footer from "./components/footer"
 import Header from "./components/header"
+import LandingSection from "./views/landing-section"
 
 export default function Home() {
   return (
     <main>
       <Header />
 
-      <div className="py-10 w-full text-center">Body Will come here</div>
+      <LandingSection />
 
       <Footer />
     </main>
