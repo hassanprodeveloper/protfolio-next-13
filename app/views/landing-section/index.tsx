@@ -23,7 +23,7 @@ const LandingSection: React.FC = () => {
       </div>
 
       <div>
-        <div className="relative h-[12rem] w-[12rem] overflow-hidden rounded-full">
+        <div className="sm:h[20rem] relative h-[12rem] w-[12rem] overflow-hidden rounded-full sm:w-[20rem]">
           <Image src={PersonalInfo.avatarURL} alt="" fill priority />
         </div>
       </div>
