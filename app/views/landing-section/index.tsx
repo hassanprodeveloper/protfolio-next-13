@@ -9,7 +9,7 @@ import "./styles.css"
 
 const LandingSection: React.FC = () => {
   return (
-    <div className="py-10 sm:py-0  sm:h-[100vh] flex gap-8 sm:flex-row flex-col-reverse justify-between items-center mx-auto max-w-[74rem]">
+    <div className="mx-auto flex  max-w-[74rem] flex-col-reverse items-center justify-between gap-8 py-10 sm:h-[100vh] sm:flex-row sm:py-0">
       <div>
         <h1 className="intro-text">
           <Balancer>
@@ -23,7 +23,7 @@ const LandingSection: React.FC = () => {
       </div>
 
       <div>
-        <div className="w-[12rem] h-[12rem] relative overflow-hidden rounded-full">
+        <div className="relative h-[12rem] w-[12rem] overflow-hidden rounded-full">
           <Image src={PersonalInfo.avatarURL} alt="" fill priority />
         </div>
       </div>

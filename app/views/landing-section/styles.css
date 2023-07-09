@@ -1,7 +1,7 @@
 .intro-text {
   @apply text-[1.3rem] sm:text-[3.6rem];
   font-weight: 800;
-  line-height: 4rem;
+  line-height: 4.3rem;
 }
 
 .intro-text-gradient {
